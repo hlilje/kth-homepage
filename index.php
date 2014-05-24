@@ -28,32 +28,39 @@
     <div class="row">
       <div class="large-8 columns">
         <section>
-          <h2>About</h2>
           <article>
             <h3>Introduction</h3>
-            <figure>
-              <a class="th" href="#"><img src="img/profile-picture-3_256.jpg" alt="Portrait"></a>
-            </figure>
-            <p>
-              This is my personal KTH homepage. I won't really use this site for anything in particular,
-              so if you're looking for more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
-            </p>
-            <p>Below are a selection of some noteworthy school projects I have been involved in.</p>
+            <div class="row">
+              <div class="medium-6 columns collapse">
+                <figure>
+                  <a class="th" href="#"><img src="img/profile-picture-3_256.jpg" alt="Portrait"></a>
+                </figure>
+              </div>
+              <div class="medium-6 columns collapse">
+                <p>
+                  This is my personal KTH homepage. I won't really use this site for anything in particular,
+                  so if you're looking for more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
+                </p>
+                <p>Below are a selection of some noteworthy school projects I have been involved in.</p>
+              </div>
+            </div>
           </article>
           <article>
             <h3>Noteworthy School Projects</h3>
-            <p><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (komp14, Spring 2014)</p>
-            <p><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (dgi14, Spring 2014)</p>
-            <p><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (mvk13, Fall 2013 - Spring 2014)</p>
-            <p>My bachelor degree project about pseudorandom number generators, <a href="#">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (dkand14, Spring 2014)</p>
-            <p><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (mdi13, Spring 2013)</p>
-            <p>A memory game (inda11, Spring 2012)</p>
+            <ul class="square">
+              <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (komp14, Spring 2014)</li>
+              <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (dgi14, Spring 2014)</li>
+              <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (mvk13, Fall 2013 - Spring 2014)</li>
+              <li>My bachelor degree project about pseudorandom number generators, <a href="#">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (dkand14, Spring 2014)</li>
+              <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (mdi13, Spring 2013)</li>
+              <li>A memory game (inda11, Spring 2012)</li>
+            </ul>
           </article>
         </section>
       </div>
       <div class="large-4 columns">
         <section>
-          <h2>Links</h2>
+          <h3><small>Links</small></h3>
           <ul class="side-nav">
             <li><a href="http://hlilje.com/">Official Website</a></li>
             <li><a href="https://www.kth.se/profile/hlilje/">KTH Profile</a></li>
@@ -68,7 +75,7 @@
     </div>
     <div class="row">
       <div class="large-12 columns">
-        <footer>
+        <footer class="panel radius">
           <ul class="inline-list">
             <li><small><a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></small></li>
             <li><small><a href="http://opensource.org/licenses/MIT">MIT</a></small></li>
