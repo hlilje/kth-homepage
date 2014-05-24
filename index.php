@@ -31,22 +31,22 @@
           <article>
             <h3>Introduction</h3>
             <figure>
-              <a class="th" href="#">
-                <img src="img/profile-picture-3_256.jpg" alt="Portrait">
-              </a>
+              <a class="th" href="#"><img src="img/profile-picture-3_256.jpg" alt="Portrait"></a>
             </figure>
             <p>
-              This is the personal KTH homepage of Hampus Liljekvist. I won't really use this site for anything in particular,
+              This is my personal KTH homepage. I won't really use this site for anything in particular,
               so if you're looking for more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
             </p>
-            <p>
-              Below are a selection of some noteworthy school projects I have been involved in.
-            </p>
+            <p>Below are a selection of some noteworthy school projects I have been involved in.</p>
           </article>
           <article>
             <h3>Noteworthy School Projects</h3>
-            <p>
-            </p>
+            <p><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (komp14, Spring 2014)</p>
+            <p><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (dgi14, Spring 2014)</p>
+            <p><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (mvk13, Fall 2013 - Spring 2014)</p>
+            <p>My bachelor degree project about pseudorandom number generators, <a href="#">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (dkand14, Spring 2014)</p>
+            <p><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (mdi13, Spring 2013)</p>
+            <p>A memory game (inda11, Spring 2012)</p>
           </article>
         </section>
       </div>
@@ -55,11 +55,12 @@
           <h2>Links</h2>
           <ul class="side-nav">
             <li><a href="http://hlilje.com/">Official Website</a></li>
+            <li><a href="https://www.kth.se/profile/hlilje/">KTH Profile</a></li>
             <li class="divider"></li>
-            <li><a href="http://twitter.com/hlilje">Twitter</a></li>
-            <li><a href="http://www.facebook.com/hampusliljekvist">Facebook</a></li>
+            <li><a href="https://twitter.com/hlilje">Twitter</a></li>
+            <li><a href="https://www.facebook.com/hampusliljekvist">Facebook</a></li>
             <li><a href="https://plus.google.com/+HampusLiljekvist">Google+</a></li>
-            <li><a href="http://www.linkedin.com/pub/hampus-liljekvist/46/72/902">LinkedIn</a></li>
+            <li><a href="https://www.linkedin.com/pub/hampus-liljekvist/46/72/902">LinkedIn</a></li>
           </ul>
         </section>
       </div>
