@@ -1,0 +1,236 @@
+/*
+ * Author: Hampus Liljekvist
+ * Updated 2014-03-08
+ */
+
+/***** Colours *****/
+/* #99cc00 /*android green*/
+/* #ff4444 /*android red*/
+/* #33b5e5 /*android blue*/
+/* #ffbb33 /*android orange*/
+/* #0099cc /*android dark blue*/
+/* #669900 /*android dark green*/
+/* #9933cc /*android dark violet*/
+/* #ff8800 /*android dark orange*/
+/* #cc0000 /*android dark red*/
+
+/***** Master Properties *****/
+/* Reset styling */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+body {
+  background: black;
+}
+
+/* Hack for global font */
+body * {
+  font-family: 'DejaVu Sans', sans-serif;
+  color: #cc0000; /*dark red*/
+}
+
+div.container {
+  overflow: hidden;
+  vertical-align: top;
+  width: 768px;
+  margin: 0 auto;
+}
+
+canvas#canvas {
+  margin: 0 auto;
+  display: block;
+}
+
+/***** Master Sections *****/
+header.mainHeader {
+  width: 100%;
+  overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px dashed #ff8800;
+}
+
+nav.leftnav {
+  width: 20%;
+  float: left;
+  padding-top: 5px;
+}
+
+section.content {
+  width: 80%;
+  float: right;
+}
+
+footer.mainFooter {
+  width: 100%;
+  float: right;
+  font-size: 14px;
+  color: #cc0000; /*dark red*/
+  height: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: 2px dashed #ff8800;
+}
+
+/***** Section Specifics *****/
+footer.mainFooter ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+footer.mainFooter li {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+header.mainHeader nav {
+  width: 50%;
+  float: right;
+}
+
+header.mainHeader nav ul {
+  list-style-type: none;
+  line-height: 150%;
+}
+
+header.mainHeader nav li {
+  float: left;
+  margin-right: 5px;
+}
+
+header.mainHeader nav ul li a:after {
+  color: #ff8800; /*dark orange*/
+  content: " >";
+}
+
+nav.leftnav nav {
+}
+
+nav.leftnav ul {
+}
+
+nav.leftnav li {
+}
+
+nav.leftnav canvas {
+  padding-top: 10px;
+}
+
+div.title {
+  width: 50%;
+  float: left;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+header.mainHeader h1 {
+  font-family: 'DejaVu Sans Mono', monospace;
+  font-size: 30px;
+  font-weight: bold;
+  color: #ff4444; /*red*/
+}
+
+header.mainHeader h2 {
+  font-size: 20px;
+  color: #cc0000; /*dark red*/
+}
+
+article.links ul li a:before {
+  color: #ff8800; /*dark orange*/
+  content: "> ";
+}
+
+article.about {
+  overflow: hidden;
+}
+
+/* Font hack */
+article.about p {
+  font-family: 'DejaVu Serif', serif;
+  font-size: 14px;
+  color: #33b5e5; /*blue*/
+  width: 50%;
+  float: left;
+  padding-top: 50px;
+}
+
+article.about figure {
+  float: right;
+}
+
+article.links {
+  font-size: 18px;
+}
+
+article.database {
+  font-size: 12px;
+  color: #cc0000; /*dark red*/
+}
+
+article.logo {
+  border-bottom: none;
+}
+
+article.logo figure {
+  text-align: center;
+}
+
+/***** General Properties *****/
+article {
+  border-bottom: 2px dashed #ff8800; /*dark orange*/
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #ff8800; /*dark orange*/
+  line-height: 200%;
+}
+
+h4 {
+  font-size: 15px;
+  color: #ffbb33; /*orange*/
+  background: #ff8800; /*dark orange*/
+  font-family: 'DejaVu Sans Mono', monospace;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+table, tr, td, th {
+  border: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #99cc00; /*green*/
+ }
+a:visited {
+  color: #669900; /*dark green*/
+}
+a:hover {
+  color: #99cc00; /*green*/
+  background: #669900; /*dark green*/
+}
+a:active {
+  color: #9933cc; /*dark violet*/
+}
