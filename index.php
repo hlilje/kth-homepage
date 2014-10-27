@@ -48,6 +48,7 @@
           <article>
             <h3>Noteworthy School Projects</h3>
             <ul class="square">
+              <li>Company host during D-dagen 2014</li>
               <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (komp14, Spring 2014)</li>
               <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (dgi14, Spring 2014)</li>
               <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (mvk13, Fall 2013 - Spring 2014)</li>
