@@ -48,6 +48,7 @@
           <article>
             <h3>Noteworthy School Projects</h3>
             <ul class="square">
+              <li><a href="https://github.com/hlilje/songmood">A song lyrics sentiment classifier</a> (ai14, Fall 2014)</li>
               <li>Company host during D-dagen 2014</li>
               <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (komp14, Spring 2014)</li>
               <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (dgi14, Spring 2014)</li>
