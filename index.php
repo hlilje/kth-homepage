@@ -48,14 +48,14 @@
           <article>
             <h3>Noteworthy School Projects</h3>
             <ul class="square">
-              <li><a href="https://github.com/hlilje/songmood">A song lyrics sentiment classifier</a> (ai14, Fall 2014)</li>
+              <li><a href="https://github.com/hlilje/songmood">A song lyrics sentiment classifier</a> (DD2380 Artificial Intelligence (ai14), Fall 2014)</li>
               <li>Company host during D-dagen 2014</li>
-              <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (komp14, Spring 2014)</li>
-              <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (dgi14, Spring 2014)</li>
-              <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (mvk13, Fall 2013 - Spring 2014)</li>
-              <li>My bachelor degree project about pseudorandom number generators, <a href="#">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (dkand14, Spring 2014)</li>
-              <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (mdi13, Spring 2013)</li>
-              <li>A memory game (inda11, Spring 2012)</li>
+              <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
+              <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
+              <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
+              <li>My bachelor degree project about pseudorandom number generators, <a href="#">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
+              <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
+              <li>A memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
             </ul>
           </article>
         </section>
