@@ -38,10 +38,12 @@
               </div>
               <div class="medium-6 columns collapse">
                 <p>
-                  This is my personal KTH homepage. I won't really use this site for anything in particular,
+                  My name is Hampus Liljekvist and I'm currently doing my fourth year at KTH studying MSE Computer Science and Engineering (master's in Theoretical Computer Science).
+                </p>
+                <p>
+                  Here I just list some of my noteworthy school projects,
                   so if you're looking for more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
                 </p>
-                <p>Below are a selection of some noteworthy school projects I have been involved in.</p>
               </div>
             </div>
           </article>
@@ -68,6 +70,7 @@
             <li><a href="https://www.kth.se/profile/hlilje/">KTH Profile</a></li>
             <li class="divider"></li>
             <li><a href="https://twitter.com/hlilje">Twitter</a></li>
+            <li><a href="https://www.reddit.com/user/Superkargoeren/">reddit</a></li>
             <li><a href="https://www.facebook.com/hampusliljekvist">Facebook</a></li>
             <li><a href="https://plus.google.com/+HampusLiljekvist">Google+</a></li>
             <li><a href="https://www.linkedin.com/pub/hampus-liljekvist/46/72/902">LinkedIn</a></li>
