@@ -55,7 +55,7 @@
               <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
               <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
               <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
-              <li>My bachelor degree project about pseudorandom number generators, <a href="pdf/slutrapport15.HLiljekvist.MHakansson.pdf">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
+              <li>My bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
               <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
               <li>A memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
             </ul>
