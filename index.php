@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="The KTH homepage of Hampus Liljekvist">
-    <meta name="keywords" content="Hampus Liljekvist,personal,homepage,KTH">
-    <meta name="author" content="Hampus Liljekvist">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="The KTH homepage of Hampus Liljekvist" />
+    <meta name="keywords" content="Hampus Liljekvist,personal,homepage,KTH" />
+    <meta name="author" content="Hampus Liljekvist" />
     <title>KTH | Hampus Liljekvist</title>
     <link rel="stylesheet" type="text/css" href="css/foundation.css" />
     <script src="js/vendor/modernizr.js"></script>
@@ -27,40 +27,44 @@
     </div>
     <div class="row">
       <div class="large-8 columns">
-        <section>
-          <article>
-            <h3>Introduction</h3>
-            <div class="row">
-              <div class="medium-6 columns collapse">
-                <figure>
-                  <a class="th" href="#"><img src="img/profile-picture.jpg" alt="Portrait"></a>
-                </figure>
+        <main>
+          <section>
+            <article>
+              <h3>Introduction</h3>
+              <div class="row">
+                <div class="medium-6 columns collapse">
+                  <figure>
+                    <a class="th" href="#"><img src="img/profile-picture.jpg" alt="Portrait"></a>
+                  </figure>
+                </div>
+                <div class="medium-6 columns collapse">
+                  <p>
+                    My name is Hampus Liljekvist and I'm currently doing my fifth and hopefully
+                    final year at KTH Royal Institute of Technology, studying MSE Computer Science
+                    and Engineering (Master's in Theoretical Computer Science).
+                  </p>
+                  <p>
+                    Here I list some of my noteworthy school projects, but if you're looking for
+                    more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
+                  </p>
+                </div>
               </div>
-              <div class="medium-6 columns collapse">
-                <p>
-                  My name is Hampus Liljekvist and I'm currently doing my fourth year at KTH studying MSE Computer Science and Engineering (master's in Theoretical Computer Science).
-                </p>
-                <p>
-                  Here I just list some of my noteworthy school projects,
-                  so if you're looking for more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
-                </p>
-              </div>
-            </div>
-          </article>
-          <article>
-            <h3>Noteworthy School Projects</h3>
-            <ul class="square">
-              <li><a href="https://github.com/hlilje/songmood">A song lyrics sentiment classifier</a> (DD2380 Artificial Intelligence (ai14), Fall 2014)</li>
-              <li>Company host during D-dagen 2014</li>
-              <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
-              <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
-              <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
-              <li>My bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
-              <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
-              <li>A memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
-            </ul>
-          </article>
-        </section>
+            </article>
+            <article>
+              <h3>Noteworthy School Projects</h3>
+              <ul class="square">
+                <li><a href="https://github.com/hlilje/songmood">A song lyrics sentiment classifier</a> (DD2380 Artificial Intelligence (ai14), Fall 2014)</li>
+                <li>Company host during D-dagen 2014</li>
+                <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
+                <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
+                <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
+                <li>My bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
+                <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
+                <li>A memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
+              </ul>
+            </article>
+          </section>
+        </main>
       </div>
       <div class="large-4 columns">
         <section>
@@ -101,7 +105,6 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
       ga('create', 'UA-55203713-2', 'auto');
       ga('send', 'pageview');
     </script>
