@@ -45,7 +45,7 @@
                   </p>
                   <p>
                     Here I list some of my noteworthy school projects, but if you're looking for
-                    more information about me I recommend visiting my <a href="http://hlilje.com/">official website</a>.
+                    more information about me I recommend visiting my <a href="https://hlilje.com/">official website</a>.
                   </p>
                 </div>
               </div>
@@ -70,7 +70,7 @@
         <section>
           <h3><small>Links</small></h3>
           <ul class="side-nav">
-            <li><a href="http://hlilje.com/">Official Website</a></li>
+            <li><a href="https://hlilje.com/">Official Website</a></li>
             <li><a href="https://www.kth.se/profile/hlilje/">KTH Profile</a></li>
             <li class="divider"></li>
             <li><a href="https://twitter.com/hlilje">Twitter</a></li>
