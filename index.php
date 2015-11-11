@@ -90,7 +90,7 @@
             <li><small><a href="http://opensource.org/licenses/MIT">MIT</a></small></li>
             <li><small><a href="http://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
             <li><small><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.csc.kth.se%2F~hlilje%2F">Check</a></small></li>
-            <li><small><time datetime="2015-08-30">2015-08-30</time></small></li>
+            <li><small><time datetime="2015-11-11">2015-11-11</time></small></li>
           </ul>
         </footer>
       </div>
