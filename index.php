@@ -42,7 +42,7 @@
                     My name is Hampus Liljekvist and I am currently doing my fifth year at
                     KTH Royal Institute of Technology, studying MSE Computer Science and
                     Engineering. I am pursuing a Master's degree in Theoretical Computer Science,
-                    and am for the moment fully focused on my Master thesis (degree project).
+                    for the moment fully focusing on my Master thesis (degree project).
                   </p>
                   <p>
                     Here I list some of my noteworthy school projects, but if you are looking for
@@ -64,7 +64,7 @@
                 <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
                 <li>My bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
                 <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
-                <li>A memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
+                <li>Memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
               </ul>
             </article>
           </section>
