@@ -56,7 +56,7 @@
               <ul class="square">
                 <li><a href="https://github.com/hlilje/text-adventure">Generic text-based adventure game</a> (DD2387 Program System Construction Using C++ (cprog15), Fall 2015)</li>
                 <li><a href="https://github.com/hlilje/simple-shell">Linux shell</a> (ID2200 Operating Systems (os15), Spring 2015)</li>
-                <li><a href="https://github.com/hlilje/mcmc-train">Statistical MCMC model</a> (DD2447 Statistical Methods in Applied Computer Science (statmet14), Fall 2014)</li>
+                <li><a href="https://github.com/hlilje/mcmc-train">Statistical MCMC simulation</a> (DD2447 Statistical Methods in Applied Computer Science (statmet14), Fall 2014)</li>
                 <li><a href="https://github.com/hlilje/songmood">Song lyrics sentiment classifier</a> (DD2380 Artificial Intelligence (ai14), Fall 2014)</li>
                 <li>Company host during D-dagen 2014</li>
                 <li><a href="https://github.com/hlilje/komp14-compiler">MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
