@@ -39,12 +39,13 @@
                 </div>
                 <div class="medium-6 columns collapse">
                   <p>
-                    My name is Hampus Liljekvist and I'm currently doing my fifth and hopefully
-                    final year at KTH Royal Institute of Technology, studying MSE Computer Science
-                    and Engineering (Master's in Theoretical Computer Science).
+                    My name is Hampus Liljekvist and I am currently doing my fifth year at
+                    KTH Royal Institute of Technology, studying MSE Computer Science and
+                    Engineering. I am pursuing a Master's degree in Theoretical Computer Science,
+                    and am for the moment fully focused on my Master thesis (degree project).
                   </p>
                   <p>
-                    Here I list some of my noteworthy school projects, but if you're looking for
+                    Here I list some of my noteworthy school projects, but if you are looking for
                     more information about me I recommend visiting my <a href="https://hlilje.com/">official website</a>.
                   </p>
                 </div>
@@ -53,10 +54,13 @@
             <article>
               <h3>Noteworthy School Projects</h3>
               <ul class="square">
-                <li><a href="https://github.com/hlilje/songmood">A song lyrics sentiment classifier</a> (DD2380 Artificial Intelligence (ai14), Fall 2014)</li>
+                <li><a href="https://github.com/hlilje/text-adventure">Generic text-based adventure game</a> (DD2387 Program System Construction Using C++ (cprog15), Fall 2015)</li>
+                <li><a href="https://github.com/hlilje/simple-shell">Linux shell</a> (ID2200 Operating Systems (os15), Spring 2015)</li>
+                <li><a href="https://github.com/hlilje/mcmc-train">Statistical MCMC model</a> (DD2447 Statistical Methods in Applied Computer Science (statmet14), Fall 2014)</li>
+                <li><a href="https://github.com/hlilje/songmood">Song lyrics sentiment classifier</a> (DD2380 Artificial Intelligence (ai14), Fall 2014)</li>
                 <li>Company host during D-dagen 2014</li>
-                <li><a href="https://github.com/hlilje/komp14-compiler">A MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
-                <li><a href="https://github.com/hlilje/dgi14-voxels">A procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
+                <li><a href="https://github.com/hlilje/komp14-compiler">MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
+                <li><a href="https://github.com/hlilje/dgi14-voxels">Procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
                 <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
                 <li>My bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
                 <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
@@ -90,7 +94,7 @@
             <li><small><a href="http://opensource.org/licenses/MIT">MIT</a></small></li>
             <li><small><a href="http://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
             <li><small><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.csc.kth.se%2F~hlilje%2F">Check</a></small></li>
-            <li><small><time datetime="2015-11-11">2015-11-11</time></small></li>
+            <li><small><time datetime="2016-01-16">2016-01-16</time></small></li>
           </ul>
         </footer>
       </div>
