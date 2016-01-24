@@ -42,7 +42,8 @@
                     My name is Hampus Liljekvist and I am currently doing my fifth year at
                     KTH Royal Institute of Technology, studying MSE Computer Science and
                     Engineering. I am pursuing a Master's degree in Theoretical Computer Science,
-                    for the moment fully focusing on my Master thesis (degree project).
+                    for the moment fully focusing on my Master thesis project at
+                    <a href="https://www.paradoxplaza.com/paradox-development-studio">Paradox Development Studio</a>.
                   </p>
                   <p>
                     Here I list some of my noteworthy school projects, but if you are looking for
@@ -54,6 +55,7 @@
             <article>
               <h3>Noteworthy School Projects</h3>
               <ul class="square">
+                <li>Master thesis project at <a href="https://www.paradoxplaza.com/paradox-development-studio">Paradox Development Studio</a> (DA222X Degree Project in Computer Science and Communication, Second Cycle, Spring 2016 (Ongoing))</li>
                 <li><a href="https://github.com/hlilje/text-adventure">Generic text-based adventure game</a> (DD2387 Program System Construction Using C++ (cprog15), Fall 2015)</li>
                 <li><a href="https://github.com/hlilje/simple-shell">Linux shell</a> (ID2200 Operating Systems (os15), Spring 2015)</li>
                 <li><a href="https://github.com/hlilje/mcmc-train">Statistical MCMC simulation</a> (DD2447 Statistical Methods in Applied Computer Science (statmet14), Fall 2014)</li>
@@ -62,7 +64,7 @@
                 <li><a href="https://github.com/hlilje/komp14-compiler">MiniJava compiler to Jasmin assembly code</a> (DD2488 Compiler Construction (komp14), Spring 2014)</li>
                 <li><a href="https://github.com/hlilje/dgi14-voxels">Procedural voxel renderer using Perlin noise</a> (DH2323 Computer Graphics and Interaction (dgi14), Spring 2014)</li>
                 <li><a href="https://github.com/mvk13ogb/qwait">QWait: The next generation lab queueing system for KTH CSC</a> (DD1365 Software Engineering (mvk13), Fall 2013 - Spring 2014)</li>
-                <li>My bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
+                <li>Bachelor degree project about pseudorandom number generators, <a href="http://kth.diva-portal.org/smash/record.jsf?pid=diva2:769905">report</a> and <a href="https://github.com/hlilje/better-random">improved XORShift</a> (DD143X Degree Project in Computer Science, First Cycle (dkand14), Spring 2014)</li>
                 <li><a href="http://mdik3.blogspot.se/">Conceptualising a mobile app for tourist navigation in Stockholm</a> (DH1620 Human-Computer Interaction, Introductory Course (mdi13), Spring 2013)</li>
                 <li>Memory game (DD1341 Introduction to Computer Science (inda11), Spring 2012)</li>
               </ul>
@@ -90,11 +92,11 @@
       <div class="large-12 columns">
         <footer class="panel radius">
           <ul class="inline-list">
-            <li><small><a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a></small></li>
-            <li><small><a href="http://opensource.org/licenses/MIT">MIT</a></small></li>
-            <li><small><a href="http://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
-            <li><small><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.csc.kth.se%2F~hlilje%2F">Check</a></small></li>
-            <li><small><time datetime="2016-01-16">2016-01-16</time></small></li>
+            <li><small><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></small></li>
+            <li><small><a href="https://opensource.org/licenses/MIT">MIT</a></small></li>
+            <li><small><a href="https://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
+            <li><small><a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.csc.kth.se%2F~hlilje%2F">Check</a></small></li>
+            <li><small><time datetime="2016-01-24">2016-01-24</time></small></li>
           </ul>
         </footer>
       </div>
