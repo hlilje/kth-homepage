@@ -95,8 +95,7 @@
             <li><small><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></small></li>
             <li><small><a href="https://opensource.org/licenses/MIT">MIT</a></small></li>
             <li><small><a href="https://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
-            <li><small><a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.csc.kth.se%2F~hlilje%2F">Check</a></small></li>
-            <li><small><time datetime="2016-01-24">2016-01-24</time></small></li>
+            <li><small><time datetime="2016-02-07">2016-02-07</time></small></li>
           </ul>
         </footer>
       </div>
