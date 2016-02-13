@@ -1,43 +1,64 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
-  <head>
+  <html class="no-js" lang="en">
     <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="The KTH homepage of Hampus Liljekvist" />
-    <meta name="keywords" content="Hampus Liljekvist,personal,homepage,KTH" />
+    <meta name="keywords" content="Hampus Liljekvist,hlilje,personal,homepage,KTH" />
     <meta name="author" content="Hampus Liljekvist" />
+
     <title>KTH | Hampus Liljekvist</title>
-    <link rel="stylesheet" type="text/css" href="css/foundation.css" />
-    <script src="js/vendor/modernizr.js"></script>
+
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/foundation/6.1.2/foundation.min.css" />
+    <style>
+      ul {
+        list-style-type: square;
+      }
+      ul li small a {
+        display: block;
+        padding: .7rem 1rem;
+        line-height: 1;
+      }
+      .no-bottom-margin {
+        margin-bottom: 0;
+      }
+    </style>
   </head>
   <body>
     <div class="row">
       <div class="large-12 columns">
         <header>
-          <nav>
-            <ul class="breadcrumbs">
-              <li><a href="http://www.kth.se/">KTH</a></li>
-              <li><a href="http://www.kth.se/csc/">CSC</a></li>
-              <li class="current">Hampus Liljekvist</li>
-            </ul>
+          <nav aria-label="You are here:" role="navigation">
+            <div class="callout secondary small">
+              <ul class="breadcrumbs">
+                <li><a href="https://www.kth.se/">KTH</a></li>
+                <li><a href="https://www.kth.se/csc/">CSC</a></li>
+                <li>
+                  <span class="show-for-sr">Current: </span> Hampus Liljekvist
+                </li>
+              </ul>
+            </div>
           </nav>
           <h1>hlilje at kth dot se</h1>
         </header>
       </div>
     </div>
+
     <div class="row">
       <div class="large-8 columns">
         <main>
           <section>
             <article>
               <h3>Introduction</h3>
-              <div class="row">
-                <div class="medium-6 columns collapse">
+              <div class="media-object stack-for-small">
+                <div class="media-object-section middle">
                   <figure>
-                    <a class="th" href="#"><img src="img/profile-picture.jpg" alt="Portrait"></a>
+                    <div class="thumbnail">
+                      <img src="img/profile-picture.jpg" alt="Portrait">
+                    </div>
                   </figure>
                 </div>
-                <div class="medium-6 columns collapse">
+                <div class="media-object-section middle">
                   <p>
                     My name is Hampus Liljekvist and I am currently doing my fifth year at
                     KTH Royal Institute of Technology, studying MSE Computer Science and
@@ -54,7 +75,7 @@
             </article>
             <article>
               <h3>Noteworthy School Projects</h3>
-              <ul class="square">
+              <ul>
                 <li>Master thesis project at <a href="https://www.paradoxplaza.com/paradox-development-studio">Paradox Development Studio</a> (DA222X Degree Project in Computer Science and Communication, Second Cycle, Spring 2016 (Ongoing))</li>
                 <li><a href="https://github.com/hlilje/text-adventure">Generic text-based adventure game</a> (DD2387 Program System Construction Using C++ (cprog15), Fall 2015)</li>
                 <li><a href="https://github.com/hlilje/simple-shell">Linux shell</a> (ID2200 Operating Systems (os15), Spring 2015)</li>
@@ -75,10 +96,9 @@
       <div class="large-4 columns">
         <section>
           <h3><small>Links</small></h3>
-          <ul class="side-nav">
+          <ul class="menu vertical">
             <li><a href="https://hlilje.com/">Official Website</a></li>
             <li><a href="https://www.kth.se/profile/hlilje/">KTH Profile</a></li>
-            <li class="divider"></li>
             <li><a href="https://twitter.com/hlilje">Twitter</a></li>
             <li><a href="https://www.reddit.com/user/Superkargoeren/">reddit</a></li>
             <li><a href="https://www.facebook.com/hampusliljekvist">Facebook</a></li>
@@ -88,22 +108,29 @@
         </section>
       </div>
     </div>
+
     <div class="row">
       <div class="large-12 columns">
-        <footer class="panel radius">
-          <ul class="inline-list">
-            <li><small><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></small></li>
-            <li><small><a href="https://opensource.org/licenses/MIT">MIT</a></small></li>
-            <li><small><a href="https://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
-            <li><small><time datetime="2016-02-07">2016-02-07</time></small></li>
-          </ul>
+        <footer>
+          <div class="callout secondary small no-bottom-margin">
+            <ul class="menu">
+              <li><small><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></small></li>
+              <li><small><a href="https://opensource.org/licenses/MIT">MIT</a></small></li>
+              <li><small><a href="https://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
+              <li><small><time datetime="2016-02-13">2016-02-13</time></small></li>
+            </ul>
+          </div>
         </footer>
       </div>
     </div>
+
     <!-- Foundation -->
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>$(document).foundation();</script>
+    <script src="//cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/what-input/1.1.4/what-input.min.js"></script>
+    <script src="//cdn.jsdelivr.net/foundation/6.1.2/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
     <!-- Google Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
