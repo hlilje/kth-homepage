@@ -116,7 +116,7 @@
               <li><small><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></small></li>
               <li><small><a href="https://opensource.org/licenses/MIT">MIT</a></small></li>
               <li><small><a href="https://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
-              <li><small><time datetime="2016-02-13">2016-02-13</time></small></li>
+              <li><small><time datetime="2016-07-09">2016-07-09</time></small></li>
             </ul>
           </div>
         </footer>
