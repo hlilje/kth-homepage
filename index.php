@@ -98,10 +98,8 @@
           <ul class="menu vertical">
             <li><a href="https://hlilje.com/">Official Website</a></li>
             <li><a href="https://www.kth.se/profile/hlilje/">KTH Profile</a></li>
+            <li><a href="https://scholar.google.com/citations?user=C3WwIhcAAAAJ">Google Scholar</a></li>
             <li><a href="https://twitter.com/hlilje">Twitter</a></li>
-            <li><a href="https://www.reddit.com/user/Superkargoeren/">reddit</a></li>
-            <li><a href="https://www.facebook.com/hampusliljekvist">Facebook</a></li>
-            <li><a href="https://plus.google.com/+HampusLiljekvist">Google+</a></li>
             <li><a href="https://www.linkedin.com/in/hlilje">LinkedIn</a></li>
           </ul>
         </section>
