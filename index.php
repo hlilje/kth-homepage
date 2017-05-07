@@ -61,7 +61,8 @@
                 <div class="media-object-section middle">
                   <p>
                     My name is Hampus Liljekvist and I am an MSE Computer Science and Engineering
-                    alumnus with a Master's degree in (Theoretical) Computer Science.
+                    alumnus at KTH Royal Institute of Technology with a Master's degree in
+                    (Theoretical) Computer Science.
                   </p>
                   <p>
                     Here I list some of my noteworthy school projects, but if you are looking for
