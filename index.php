@@ -60,14 +60,13 @@
                 </div>
                 <div class="media-object-section middle">
                   <p>
-                    My name is Hampus Liljekvist and I am currently doing my fifth year at
-                    KTH Royal Institute of Technology, studying MSE Computer Science and
-                    Engineering. I am pursuing a Master's degree in Theoretical Computer Science,
-                    with just one exam left to take.
+                    My name is Hampus Liljekvist and I am an MSE Computer Science and Engineering
+                    alumnus with a Master's degree in (Theoretical) Computer Science.
                   </p>
                   <p>
                     Here I list some of my noteworthy school projects, but if you are looking for
                     more information about me I recommend visiting my <a href="https://hlilje.com/">official website</a>.
+                    Do not expect this page to be updated any time soon.
                   </p>
                 </div>
               </div>
@@ -116,7 +115,7 @@
               <li><small><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></small></li>
               <li><small><a href="https://opensource.org/licenses/MIT">MIT</a></small></li>
               <li><small><a href="https://www.kth.se/en/gemensamt/disclaimer/disclaimer-for-personliga-webbsidor-1.62633">Disclaimer</a></small></li>
-              <li><small><time datetime="2016-07-09">2016-07-09</time></small></li>
+              <li><small><time datetime="2017-05-07">2017-05-07</time></small></li>
             </ul>
           </div>
         </footer>
